@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  width: 100%;
+  transition: opacity .25s ease-in .1s;
+  min-width: 100%;
+  display: block;
+  padding-top: 0; 
+}
+
+html {
+  font-family: proxima-nova,helvetica,arial,sans-serif;
+    color: #212722;
+    -webkit-font-smoothing: antialiased;
+    line-height: 1.5;
+    font-weight: 400;
+
+}

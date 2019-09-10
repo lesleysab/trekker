@@ -1,0 +1,15 @@
+
+
+.home-page-wrapper {
+   
+
+}
+
+.hero-wrapper {
+    display: table;
+    height: 100%;
+    width: 100%;
+    position: relative;
+    z-index: 11;
+    background-image: url("/Hikers.jpg");
+}
